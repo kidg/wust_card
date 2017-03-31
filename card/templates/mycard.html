@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My_Card</title>
+</head>
+<body>
+<table>
+<tbody>
+    {% for v in values %}
+    <tr align="center">
+        <td>{{v.head_time}}</td>
+        <td>{{v.head_type}}</td>
+        <td>{{v.head_tnover}}</td>
+        <td>{{v.head_balance}}</td>>
+    </tr>
+        {% for b in v.bodys %}
+        <tr align="center">
+        <td>{{b.body_time}}</td>
+        <td>{{b.body_type}}</td>
+        <td>{{b.body_tnover}}</td>
+        <td>{{b.body_balance}}</td>
+        </tr>
+        {% endfor %}
+
+
+    {% endfor %}
+</tbody>
+</table>
+</body>
+</html>

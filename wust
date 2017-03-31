@@ -1,0 +1,177 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" > <!--3.0.2.103-->
+<HTML>
+	<HEAD>
+		<title>校园一卡通门户</title>
+		<meta content="Microsoft Visual Studio .NET 7.1" name="GENERATOR">
+		<meta content="C#" name="CODE_LANGUAGE">
+		<meta content="JavaScript" name="vs_defaultClientScript">
+		<meta content="http://schemas.microsoft.com/intellisense/ie5" name="vs_targetSchema">
+		<LINK href="inc/style.css" type="text/css" rel="stylesheet">
+	</HEAD>
+	<body>
+		<form name="Form1" method="post" action="QueryhistoryDetail.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTg1MDk4MTAzM2RkB1ZIzyTjsB8SDkL82sLGU9cV+QM=" />
+
+			<FONT face="宋体">
+				<TABLE id="Table1" cellSpacing="0" cellPadding="0" width="778" align="center" bgColor="#ffffff"
+					border="0">
+					<TR>
+						<TD>
+<table width="778" align="center" cellpadding="0" cellspacing="0">
+	<tr>
+		<td><img src="images/top.jpg" width="778" height="159" border="0" usemap="#zhuxiao"></td>
+	</tr>
+</table>
+<MAP id="zhuxiao" name="zhuxiao">
+	<AREA shape="RECT" coords="512,-1,550,23" href="../Logout.aspx" alt="注销">
+	<AREA shape="RECT" coords="446,-1,484,23" href="###" alt="收藏本页" onclick="javascript:window.external.AddFavorite(location.href,'校园一卡通门户');">
+	<AREA shape="RECT" coords="391,-1,430,23" href="../default.aspx" alt="回到首页">
+</MAP>
+</TD>
+					</TR>
+					<TR>
+						<TD>
+							<TABLE id="Table2" cellSpacing="0" cellPadding="0" width="778" align="center" border="0">
+								<TR>
+									<TD vAlign="top" align="left" width="211" background="images/bg_lf_bt.gif" bgColor="#ffffff"
+										height="0">
+										<TABLE id="Table3" cellSpacing="0" cellPadding="0" width="100%" border="0">
+											<TR>
+												<TD style="BACKGROUND-REPEAT: no-repeat" vAlign="top" align="left" background="images/bg_left2.jpg"
+													height="636">
+<TABLE id="Table4" height="306" cellSpacing="0" cellPadding="0" width="100%" border="0">
+														<TR>
+															<TD colSpan="2" height="27"></TD>
+														</TR>
+														<TR>
+															<TD width="37" height="279"></TD>
+															<TD vAlign="top">
+																<TABLE id="Table5" cellSpacing="0" cellPadding="0" width="100%" border="0">
+																	<TR>
+																		<TD height="17"><IMG height="12" src="images/icon.gif" width="20"><A href="AccInfo.aspx">卡户详细信息</A></TD>
+																	</TR>
+																</TABLE>
+																<TABLE id="Table6" cellSpacing="0" cellPadding="0" width="100%" border="0">
+																	<TR>
+																		<TD vAlign="bottom" height="28"><IMG height="12" src="images/icon.gif" width="20"><A href="AccBalance.aspx">卡户余额信息</A></TD>
+																	</TR>
+																</TABLE>
+																<TABLE id="Table7" cellSpacing="0" cellPadding="0" width="100%" border="0">
+																	<TR>
+																		<TD vAlign="bottom" height="32"><IMG height="12" src="images/icon.gif" width="20"><A href="Queryhistory.aspx">历史交易流水</A></TD>
+																	</TR>
+																</TABLE>
+																<TABLE id="Table8" cellSpacing="0" cellPadding="0" width="100%" border="0">
+																	<TR>
+																		<TD vAlign="bottom" height="32"><IMG height="12" src="images/icon.gif" width="20"><A href="QueryCurrDetail.aspx">当日交易流水</A></TD>
+																	</TR>
+																</TABLE>
+																<TABLE id="Table9" cellSpacing="0" cellPadding="0" width="100%" border="0">
+																	<TR>
+																		<TD vAlign="bottom" height="30"><IMG height="12" src="images/icon.gif" width="20"><A href="QueryMonthCollect.aspx">月交易统计</A></TD>
+																	</TR>
+																</TABLE>
+																<TABLE id="Table10" cellSpacing="0" cellPadding="0" width="100%" border="0">
+																	<TR>
+																		<TD vAlign="bottom" height="32"><IMG height="12" src="images/icon.gif" width="20"><A href="CardLossList.aspx">卡片挂失</A></TD>
+																	</TR>
+																</TABLE>
+																<TABLE id="Table11" cellSpacing="0" cellPadding="0" width="100%" border="0">
+																	<TR>
+																		<TD vAlign="bottom" height="33"><IMG height="12" src="images/icon.gif" width="20"><A href="Transfer.aspx">钱包转账</A></TD>
+																	</TR>
+																</TABLE>
+																<TABLE id="Table15" cellSpacing="0" cellPadding="0" width="100%" border="0">
+																	<TR>
+																		<TD vAlign="bottom" height="33"><IMG height="12" src="images/icon.gif" width="20"><A href="ChangeQueryPWD.aspx">修改查询密码</A></TD>
+																	</TR>
+																</TABLE>
+																<TABLE id="Table1" cellSpacing="0" cellPadding="0" width="100%" border="0">
+																	<TR>
+																		<TD vAlign="bottom" height="33"><IMG height="12" src="images/icon.gif" width="20"><A href="ChangePayPWD.aspx">修改交易密码</A></TD>
+																	</TR>
+																</TABLE>
+																
+                                                                <table id="Table14" border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                                    <tr>
+                                                                        <td style="height: 33px" valign="bottom">
+                                                                            <img height="12" src="images/icon.gif" width="20" /><a href="Attendance.aspx">考勤信息查询</a></td>
+                                                                    </tr>
+                                                                </table>
+                                                                <table id="Table2" border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                                    <tr>
+                                                                        <td style="height: 33px" valign="bottom">
+                                                                            <img height="12" src="images/icon.gif" width="20" /><a href="SelfHelp.aspx">自助缴费</a></td>
+                                                                    </tr>
+                                                                </table>
+															</TD>
+														</TR>
+													</TABLE>
+
+												</TD>
+											</TR>
+										</TABLE>
+									</TD>
+									<TD vAlign="top" align="left" width="564" bgColor="#f9f9f9" rowSpan="2">
+										<TABLE id="Table12" cellSpacing="0" cellPadding="0" width="100%" border="0">
+											<TR>
+												<TD><IMG height="19" src="images/content_tp.jpg" width="567"></TD>
+											</TR>
+											<TR>
+												<TD class="blue" bgColor="#81cee4" height="23">您现在的位置：<a id="UrlhLinkFirst" href="../default.aspx">首页</a>
+													&gt;
+													<a id="UrlhLink2" href="Cardholder.aspx">卡户操作</a>&nbsp;&gt;
+													<font face="宋体">历史交易流水</font></TD>
+											</TR>
+										</TABLE>
+										<TABLE id="Table13" cellSpacing="0" cellPadding="0" width="100%" border="0">
+											<TR>
+												<TD><IMG height="93" src="images/content_tp2.jpg" width="567"></TD>
+											</TR>
+											<TR>
+												<TD vAlign="middle" align="center" height="35"><IMG height="18" src="images/text_03.gif" width="77"></TD>
+											</TR>
+											<TR>
+												<TD><IMG height="2" src="images/line02.gif" width="554"></TD>
+											</TR>
+										</TABLE>
+										
+										<table cellSpacing="0" cellPadding="1" width="100%" border="0">
+											<tr>
+												<td style="height: 18px">&nbsp;</td>
+												<iframe width="100%" height="460" frameborder=0 scrolling=auto src="QueryhistoryDetailFrame.aspx" style="height: 487px"></iframe>
+											</tr>
+											<tr>
+												<td align="center"><A href="Queryhistory.aspx"><IMG height="21" src="images/return.gif" width="53" border="0"></A></td>
+											</tr>
+											<TR>
+												<TD align="center" height="18"></TD>
+											</TR>
+										</table>
+									</TD>
+								</TR>
+								<TR>
+									<TD vAlign="bottom" align="center" background="images/bg_lf_bt.gif" bgColor="#ffffff"
+										height="0"></TD>
+								</TR>
+							</TABLE>
+						</TD>
+					</TR>
+					<TR>
+						<TD>
+<table width="778" border="0" align="center" cellpadding="0" cellspacing="0">
+	<tr>
+		<td height="60" align="center" background="images/bg_bt.gif" class="btgray">
+			<P>版权所有：浙江正元智慧科技有限公司 地址：杭州市文三路259号昌地火炬大厦1-16F Tel:(0571)88994760 系统支持：浙江正元智慧科技有限公司</P>
+		</td>
+	</tr>
+</table>
+</TD>
+					</TR>
+				</TABLE>
+			</FONT>
+		</form>
+	</body>
+</HTML>
+
